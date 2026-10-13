@@ -28,8 +28,8 @@ A lightweight, modular collection of Command Line Interface (CLI) tools designed
 
 ### 1. Download / Clone the Repository
 ```bash
-git clone https://github.com/har1kr1sh/soc-toolset-v1.0.git
-cd soc-toolset-v1.0
+git clone https://github.com/har1kr1sh/soc-toolset-v2.0.git
+cd soc-toolset-v2.0.git
 ```
 
 ### 2. Install Dependencies
