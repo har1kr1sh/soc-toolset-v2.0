@@ -1,0 +1,20 @@
+# =====================================================================
+# SOC TOOLSET CONFIGURATION FILE
+# =====================================================================
+# How to obtain a VirusTotal API Key:
+# 1. Go to https://www.virustotal.com/ and create a free account.
+# 2. Click on your profile avatar in the top right corner.
+# 3. Select "API key".
+# 4. Copy your API key and paste it between the quotes below.
+# =====================================================================
+
+Your_Virus_Total_API_Key = "YOUR_API_KEY"
+
+# =====================================================================
+# How to obtain a ProxyCheck.io API Key (Optional, but recommended):
+# 1. Go to https://proxycheck.io/ and register a free account.
+# 2. Copy your Dashboard API key.
+# 3. Paste it between the quotes below.
+# =====================================================================
+
+Your_ProxyCheck_API_Key = "YOUR_API_KEY"
