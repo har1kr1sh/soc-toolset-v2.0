@@ -38,13 +38,9 @@ pip install -r requirements.txt
 ```
 
 ### 3. Setup Your Configuration
-To protect your sensitive credentials:
+
 1. Navigate to the `config/` directory.
-2. Copy the template configuration file:
-   ```bash
-   cp config/config.example.txt config/config.txt
-   ```
-3. Open `config/config.txt` in a text editor and add your personal API keys (VirusTotal, ProxyCheck, etc.).
+2. Open `config/config.txt` in a text editor and add your personal API keys (VirusTotal, ProxyCheck, etc.).
 
 ---
 
