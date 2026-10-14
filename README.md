@@ -1,4 +1,4 @@
-# 🛡️ SOC Toolset (v1.0)
+# 🛡️ SOC Toolset (v2.0)
 
 A lightweight, modular collection of Command Line Interface (CLI) tools designed for Security Operations Center (SOC) analysts and incident responders to quickly gather threat intelligence and investigate Indicators of Compromise (IoCs).
 
